@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SmartDeviceProject1">
+</Property><Property Name="Solution File" Value="C:\Work\c#\SmartDeviceProject1\SmartDeviceProject1.sln">
+</Property><Property Name="Date" Value="20 вересня 2011 р.">
+</Property><Property Name="Time" Value="15:08:07">
+</Property></Properties><Event ErrorLevel="0" Project="RilWrapper" Source="RilWrapper\RilWrapper.csproj" Description="Project file successfully backed up as C:\Work\c#\SmartDeviceProject1\Backup\RilWrapper.csproj">
+</Event><Event ErrorLevel="0" Project="RilWrapper" Source="RilWrapper\RilWrapper.csproj.user" Description="Project user file successfully backed up as C:\Work\c#\SmartDeviceProject1\Backup\RilWrapper.csproj.user">
+</Event><Event ErrorLevel="0" Project="RilWrapper" Source="RilWrapper\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Work\c#\SmartDeviceProject1\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="RilWrapper" Source="RilWrapper\Ril.cs" Description="File successfully backed up as C:\Work\c#\SmartDeviceProject1\Backup\Ril.cs">
+</Event><Event ErrorLevel="0" Project="RilWrapper" Source="RilWrapper\RilWrapper.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RilWrapper" Source="RilWrapper\RilWrapper.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RilWrapper" Source="RilWrapper\RilWrapper.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
