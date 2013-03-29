@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Countdown</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_countdown">CountdownActivity</string>
+    <string name="_00_30">00:30</string>
+    <string name="start">Start</string>
+
+</resources>
